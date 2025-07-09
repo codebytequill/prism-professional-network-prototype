@@ -4,7 +4,7 @@
 
 ---
 
-### [View the Live Prototype](https://your-github-username.github.io/prism-professional-network-prototype/)
+### [View the Live Prototype](([https://codebytequill.github.io/prism-professional-network-prototype/]))
 
 
 ---
