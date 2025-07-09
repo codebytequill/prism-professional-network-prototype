@@ -11,7 +11,7 @@
 
 ## The Vision
 
-In an increasingly precarious economic and social landscape, safe spaces for marginalized communities are not a luxury—they are a necessity. "Prism" was born from the idea that LGBTQ+ professionals deserve a dedicated platform to connect, find opportunities, and build community without fear of prejudice or the need to code-switch.
+In an increasingly precarious economic and social landscape, safe spaces for marginalized communities are not a luxury, they are a necessity. "Prism" was born from the idea that LGBTQ+ professionals deserve a dedicated platform to connect, find opportunities, and build community without fear of prejudice or the need to code-switch.
 
 This project, originally conceived in 2017, has been revitalized for 2025 to address the urgent, modern needs of our community. It's more than a "LinkedIn for queer people"; it's envisioned as a digital community center that prioritizes safety, authenticity, and mutual support.
 
